@@ -1,4 +1,4 @@
-## [ToDo приложение](https://diana-coder-tech.github.io/todoApp/](https://diana-coder-tech.github.io/todoAppExtended/)
+## [ToDo приложение](https://diana-coder-tech.github.io/todoAppExtended/)
 ### Базовая функциональность:
 + Добавление задач с полями: название, описание, теги (минимум 1)
 + Срок выполнения
